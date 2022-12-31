@@ -1,4 +1,4 @@
-## :information_source: About the Project - AluraCommerce?
+## :information_source: About the Project - AluraCommerce
 
 AluraCommerce is an application made in React Native that simulates an e-commerce. The main focus of the project was the study of React's Contexts API's, to see the advantage of having global states in the application. Also used is AsyncStorage and a Web API (Fake API) to have data persistence.
 
