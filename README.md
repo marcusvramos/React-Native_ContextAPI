@@ -16,7 +16,7 @@ This project was developed using:
 
 In the terminal, type the following commands:
 
-### Install Dependencies and Run Application and API
+### Install Dependencies, Run Application and API
 
 ```bash
 # Install the dependencies
